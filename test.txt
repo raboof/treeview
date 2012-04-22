@@ -1,0 +1,615 @@
+
+xwininfo: Window id: 0x64 (the root window) "WScreen"
+
+  Root window id: 0x64 (the root window) "WScreen"
+  Parent window id: 0x0 (none)
+     109 children:
+     0x2800001 "<interactive>": ("<interactive>" "<interactive>")  10x10+10+10  +10+10
+        1 child:
+        0x2800002 (has no name): ()  1x1+-1+-1  +9+9
+     0x2400758 "Gtk2Hs Tutorial: Packing Widgets": ("Popup" "Iceweasel")  190x21+1992+486  +1992+486
+        2 children:
+        0x2407a20 (has no name): ()  190x21+0+0  +1992+486
+        0x2400759 (has no name): ()  1x1+-1+-1  +1991+485
+     0x241b8d2 "Iceweasel": ("Popup" "Iceweasel")  182x18+2879+76  +2879+76
+        2 children:
+        0x241b8d6 (has no name): ()  182x18+0+0  +2879+76
+        0x241b8d3 (has no name): ()  1x1+-1+-1  +2878+75
+     0x2400485 "Iceweasel": ("Popup" "Iceweasel")  905x36+1928+76  +1928+76
+        2 children:
+        0x240049e (has no name): ()  905x36+0+0  +1928+76
+        0x2400486 (has no name): ()  1x1+-1+-1  +1927+75
+     0x2200001 "VIM": ("VIM" "Vim_xterm")  1x1+0+0  +0+0
+     0x2400856 "This answer is not useful (click again to undo)": ("Popup" "Iceweasel")  263x21+2167+263  +2167+263
+        2 children:
+        0x2402209 (has no name): ()  263x21+0+0  +2167+263
+        0x2400857 (has no name): ()  1x1+-1+-1  +2166+262
+     0x1000028 "WScreen<1>": ()  1280x1024+0+0  +0+0
+        9 children:
+        0x100004c "Notion WFrame<7>": ()  640x1024+0+0  +0+0
+        0x100004d "Notion WFrame<8>": ()  640x1024+640+0  +640+0
+        0x100004b "Notion WTiling dummy window": ()  1x1+0+0  +0+0
+        0x100004a "WGroup": ()  1x1+0+0  +0+0
+        0x1000048 "Notion WFrame<6>": ()  916x341+364+683  +364+683
+           2 children:
+           0x3400024 "[No Name] + - VIM": ("xterm" "XTerm")  910x316+3+23  +367+706
+              1 child:
+              0x340002f (has no name): ()  910x316+0+0  +367+706
+           0x1000049 "WGroup": ()  1x1+1+22  +365+705
+        0x1000044 "Notion WFrame<5>": ()  916x683+364+0  +364+0
+           6 children:
+           0x1000047 "WGroup": ()  1x1+1+22  +365+22
+           0x2e00039 "Git Gui (notion) /home/arnouten/dev/notion/notion": ("git-gui" "Git-gui")  914x660+1+22  +365+22
+              2 children:
+              0x2e00038 (has no name): ()  914x29+0+0  +365+22
+              0x2e00007 (has no name): ()  914x631+0+29  +365+51
+                 4 children:
+                 0x2e0008e (has no name): ()  914x16+0+615  +365+666
+                    1 child:
+                    0x2e0008f (has no name): ()  43x16+0+0  +365+666
+                 0x2e0003e (has no name): ()  914x599+0+16  +365+67
+                    2 children:
+                    0x2e00055 (has no name): ()  702x599+212+0  +577+67
+                       2 children:
+                       0x2e00057 (has no name): ()  702x448+0+0  +577+67
+                          2 children:
+                          0x2e00074 (has no name): ()  700x428+1+19  +578+86
+                             3 children:
+                             0x2e00076 (has no name): ()  15x413+685+0  +1263+86
+                             0x2e00075 (has no name): ()  700x15+0+413  +578+499
+                             0x2e000ba (has no name): ()  685x413+0+0  +578+86
+                          0x2e0006d (has no name): ()  700x18+1+1  +578+68
+                             3 children:
+                             0x2e00071 (has no name): ()  308x18+392+0  +970+68
+                             0x2e00070 (has no name): ()  4x18+388+0  +966+68
+                             0x2e0006f (has no name): ()  388x18+0+0  +578+68
+                       0x2e00056 (has no name): ()  702x151+0+448  +577+515
+                          2 children:
+                          0x2e0005f (has no name): ()  546x151+104+0  +681+515
+                             3 children:
+                             0x2e0006a (has no name): ()  15x132+531+19  +1212+534
+                             0x2e000c1 (has no name): ()  531x132+0+19  +681+534
+                             0x2e00060 (has no name): ()  546x19+0+0  +681+515
+                                3 children:
+                                0x2e00064 (has no name): ()  108x16+0+1  +681+516
+                                0x2e00063 (has no name): ()  144x19+402+0  +1083+515
+                                0x2e00062 (has no name): ()  98x19+304+0  +985+515
+                          0x2e00058 (has no name): ()  104x151+0+0  +577+515
+                             6 children:
+                             0x2e0005e (has no name): ()  104x25+0+116  +577+631
+                             0x2e0005d (has no name): ()  104x25+0+91  +577+606
+                             0x2e0005c (has no name): ()  104x25+0+66  +577+581
+                             0x2e0005b (has no name): ()  104x25+0+41  +577+556
+                             0x2e0005a (has no name): ()  104x25+0+16  +577+531
+                             0x2e00059 (has no name): ()  104x16+0+0  +577+515
+                    0x2e0003f (has no name): ()  207x599+0+0  +365+67
+                       2 children:
+                       0x2e0004c (has no name): ()  207x192+0+0  +365+67
+                          4 children:
+                          0x2e00053 (has no name): ()  15x159+192+18  +557+85
+                          0x2e00052 (has no name): ()  207x15+0+177  +365+244
+                          0x2e000b5 (has no name): ()  192x159+0+18  +365+85
+                          0x2e0004e (has no name): ()  207x18+0+0  +365+67
+                       0x2e00040 (has no name): ()  207x402+0+197  +365+264
+                          4 children:
+                          0x2e0004b (has no name): ()  15x369+192+18  +557+282
+                          0x2e0004a (has no name): ()  207x15+0+387  +365+651
+                          0x2e000b6 (has no name): ()  192x369+0+18  +365+282
+                          0x2e00042 (has no name): ()  207x18+0+0  +365+264
+                 0x2e0003a (has no name): ()  914x16+0+0  +365+51
+                    2 children:
+                    0x2e0003d (has no name): ()  36x16+99+0  +464+51
+                    0x2e0003c (has no name): ()  99x16+0+0  +365+51
+                 0x2e00008 (has no name): ()  914x631+0+0  +365+51
+           0x1000046 "WGroup": ()  1x1+1+22  +365+22
+           0x2000024 "arnouten@jaga: /tmp": ("xterm" "XTerm")  910x654+3+25  +367+25
+              1 child:
+              0x200002f (has no name): ()  910x654+0+0  +367+25
+           0x1a00024 "arnouten@mintzer: ~": ("xterm" "XTerm")  910x654+3+25  +367+25
+              1 child:
+              0x1a0002f (has no name): ()  910x654+0+0  +367+25
+           0x1000045 "WGroup": ()  1x1+1+22  +365+22
+        0x1000043 "Notion WFrame<4>": ()  364x1024+0+0  +0+0
+        0x1000042 "Notion WTiling dummy window": ()  1x1+0+0  +0+0
+        0x1000041 "WGroup": ()  1x1+0+0  +0+0
+     0x1000015 "WScreen": ()  1920x1080+1280+0  +1280+0
+        9 children:
+        0x1000040 "*scratchpad*": ()  640x480+1280+300  +2560+300
+        0x100003f "WGroup": ()  1x1+0+0  +1280+0
+        0x100003c "Notion WFrame<2>": ()  1488x391+432+661  +1712+661
+           6 children:
+           0x1000082 "WGroup": ()  1x1+1+22  +1713+683
+           0x100003e "WGroup": ()  1x1+1+22  +1713+683
+           0x3a00024 "[No Name] + - VIM": ("xterm" "XTerm")  1486x368+1+22  +1713+683
+              1 child:
+              0x3a0002f (has no name): ()  1486x368+0+0  +1713+683
+           0x2c00024 "treeview.hs (~/dev/treeview/haskell) - VIM": ("xterm" "XTerm")  1486x368+1+22  +1713+683
+              1 child:
+              0x2c0002f (has no name): ()  1486x368+0+0  +1713+683
+           0x2a00024 "arnouten@jaga: ~/dev/treeview/haskell": ("xterm" "XTerm")  1486x368+1+22  +1713+683
+              1 child:
+              0x2a0002f (has no name): ()  1486x368+0+0  +1713+683
+           0x100003d "WGroup": ()  1x1+1+22  +1713+683
+        0x1000036 "Notion WFrame<1>": ()  1488x661+432+0  +1712+0
+           10 children:
+           0x3800048 "gitk: notion": ("gitk #3" "Gitk")  1486x638+1+22  +1713+22
+              2 children:
+              0x3800047 (has no name): ()  1486x31+0+0  +1713+22
+              0x3800046 (has no name): ()  1486x607+0+31  +1713+53
+                 6 children:
+                 0x380008e (has no name): ()  817x286+669+321  +2382+374
+                    3 children:
+                    0x3800094 (has no name): ()  15x267+802+19  +3184+393
+                    0x38000ac (has no name): ()  802x267+0+19  +2382+393
+                    0x380008f (has no name): ()  817x19+0+0  +2382+374
+                       2 children:
+                       0x3800091 (has no name): ()  47x19+55+0  +2437+374
+                       0x3800090 (has no name): ()  55x19+0+0  +2382+374
+                 0x3800078 (has no name): ()  664x286+0+321  +1713+374
+                    3 children:
+                    0x380007b (has no name): ()  664x241+0+45  +1713+419
+                       3 children:
+                       0x3800089 (has no name): ()  649x15+0+226  +1713+645
+                       0x3800088 (has no name): ()  15x226+649+0  +2362+419
+                       0x38000b1 (has no name): ()  649x226+0+0  +1713+419
+                    0x380007a (has no name): ()  664x20+0+25  +1713+399
+                       7 children:
+                       0x3800086 (has no name): ()  94x18+565+1  +2278+400
+                       0x3800085 (has no name): ()  145x18+410+1  +2123+400
+                       0x38000b0 (has no name): ()  52x20+353+0  +2066+399
+                       0x3800081 (has no name): ()  130x16+223+2  +1936+401
+                       0x3800080 (has no name): ()  94x19+129+0  +1842+399
+                       0x380007f (has no name): ()  88x19+41+0  +1754+399
+                       0x380007e (has no name): ()  41x19+0+0  +1713+399
+                    0x3800079 (has no name): ()  664x25+0+0  +1713+374
+                       2 children:
+                       0x380007d (has no name): ()  571x18+93+3  +1806+377
+                       0x380007c (has no name): ()  83x25+5+0  +1718+374
+                 0x3800077 (has no name): ()  1486x286+0+321  +1713+374
+                 0x380004b (has no name): ()  1486x316+0+0  +1713+53
+                    3 children:
+                    0x3800054 (has no name): ()  1486x25+0+291  +1713+344
+                       8 children:
+                       0x3800076 (has no name): ()  97x18+1389+3  +3102+347
+                       0x3800075 (has no name): ()  73x18+1316+3  +3029+347
+                       0x3800074 (has no name): ()  861x18+455+3  +2168+347
+                       0x3800073 (has no name): ()  201x25+254+0  +1967+344
+                       0x3800071 (has no name): ()  56x25+198+0  +1911+344
+                       0x3800070 (has no name): ()  83x25+115+0  +1828+344
+                       0x380006f (has no name): ()  83x25+32+0  +1745+344
+                       0x380006e (has no name): ()  32x25+0+0  +1713+344
+                    0x3800053 (has no name): ()  1486x30+0+261  +1713+314
+                       10 children:
+                       0x380006d (has no name): ()  781x19+703+5  +2416+319
+                       0x380006b (has no name): ()  122x16+576+7  +2289+321
+                       0x380006a (has no name): ()  58x16+513+7  +2226+321
+                       0x3800069 (has no name): ()  6x16+507+7  +2220+321
+                       0x3800068 (has no name): ()  58x16+449+7  +2162+321
+                       0x3800067 (has no name): ()  27x16+422+7  +2135+321
+                       0x3800066 (has no name): ()  27x30+395+0  +2108+314
+                       0x3800062 (has no name): ()  27x30+368+0  +2081+314
+                       0x380005d (has no name): ()  284x18+84+6  +1797+320
+                       0x38000a0 (has no name): ()  84x30+0+0  +1713+314
+                    0x380004c (has no name): ()  1486x261+0+0  +1713+53
+                       2 children:
+                       0x3800052 (has no name): ()  15x261+1471+0  +3184+53
+                       0x380004d (has no name): ()  1471x261+0+0  +1713+53
+                          3 children:
+                          0x38000af (has no name): ()  1050x261+421+0  +2134+53
+                          0x38000ae (has no name): ()  36x261+380+0  +2093+53
+                          0x38000ad (has no name): ()  375x261+0+0  +1713+53
+                 0x380004a (has no name): ()  1486x607+0+0  +1713+53
+                 0x3800049 (has no name): ()  1486x607+0+0  +1713+53
+           0x100003b "WGroup": ()  1x1+1+22  +1713+22
+           0x3600039 "Git Gui (notion) /home/arnouten/dev/notion/notion": ("git-gui" "Git-gui")  1486x638+1+22  +1713+22
+              2 children:
+              0x3600038 (has no name): ()  1486x29+0+0  +1713+22
+              0x3600007 (has no name): ()  1486x609+0+29  +1713+51
+                 4 children:
+                 0x360008e (has no name): ()  1486x16+0+593  +1713+644
+                    1 child:
+                    0x360008f (has no name): ()  43x16+0+0  +1713+644
+                 0x360003e (has no name): ()  1486x577+0+16  +1713+67
+                    2 children:
+                    0x3600055 (has no name): ()  1274x577+212+0  +1925+67
+                       2 children:
+                       0x3600057 (has no name): ()  1274x426+0+0  +1925+67
+                          2 children:
+                          0x3600074 (has no name): ()  1272x406+1+19  +1926+86
+                             3 children:
+                             0x3600076 (has no name): ()  15x391+1257+0  +3183+86
+                             0x3600075 (has no name): ()  1272x15+0+391  +1926+477
+                             0x36000c0 (has no name): ()  1257x391+0+0  +1926+86
+                          0x360006d (has no name): ()  1272x18+1+1  +1926+68
+                             3 children:
+                             0x3600071 (has no name): ()  880x18+392+0  +2318+68
+                             0x3600070 (has no name): ()  4x18+388+0  +2314+68
+                             0x360006f (has no name): ()  388x18+0+0  +1926+68
+                       0x3600056 (has no name): ()  1274x151+0+426  +1925+493
+                          2 children:
+                          0x360005f (has no name): ()  546x151+104+0  +2029+493
+                             3 children:
+                             0x360006a (has no name): ()  15x132+531+19  +2560+512
+                             0x36000c3 (has no name): ()  531x132+0+19  +2029+512
+                             0x3600060 (has no name): ()  546x19+0+0  +2029+493
+                                3 children:
+                                0x3600064 (has no name): ()  108x16+0+1  +2029+494
+                                0x3600063 (has no name): ()  144x19+402+0  +2431+493
+                                0x3600062 (has no name): ()  98x19+304+0  +2333+493
+                          0x3600058 (has no name): ()  104x151+0+0  +1925+493
+                             6 children:
+                             0x360005e (has no name): ()  104x25+0+116  +1925+609
+                             0x360005d (has no name): ()  104x25+0+91  +1925+584
+                             0x360005c (has no name): ()  104x25+0+66  +1925+559
+                             0x360005b (has no name): ()  104x25+0+41  +1925+534
+                             0x360005a (has no name): ()  104x25+0+16  +1925+509
+                             0x3600059 (has no name): ()  104x16+0+0  +1925+493
+                    0x360003f (has no name): ()  207x577+0+0  +1713+67
+                       2 children:
+                       0x360004c (has no name): ()  207x192+0+0  +1713+67
+                          4 children:
+                          0x3600053 (has no name): ()  15x159+192+18  +1905+85
+                          0x3600052 (has no name): ()  207x15+0+177  +1713+244
+                          0x36000b1 (has no name): ()  192x159+0+18  +1713+85
+                          0x360004e (has no name): ()  207x18+0+0  +1713+67
+                       0x3600040 (has no name): ()  207x380+0+197  +1713+264
+                          4 children:
+                          0x360004b (has no name): ()  15x347+192+18  +1905+282
+                          0x360004a (has no name): ()  207x15+0+365  +1713+629
+                          0x36000b2 (has no name): ()  192x347+0+18  +1713+282
+                          0x3600042 (has no name): ()  207x18+0+0  +1713+264
+                 0x360003a (has no name): ()  1486x16+0+0  +1713+51
+                    2 children:
+                    0x360003d (has no name): ()  44x16+99+0  +1812+51
+                    0x360003c (has no name): ()  99x16+0+0  +1713+51
+                 0x3600008 (has no name): ()  1486x609+0+0  +1713+51
+           0x100003a "WGroup": ()  1x1+1+22  +1713+22
+           0x4800024 "arnouten@jaga: ~/dev/notion/notion": ("xterm" "XTerm")  1486x628+1+27  +1713+27
+              1 child:
+              0x480002f (has no name): ()  1486x628+0+0  +1713+27
+           0x1000039 "WGroup": ()  1x1+1+22  +1713+22
+           0x1000038 "WGroup": ()  1x1+1+22  +1713+22
+           0x2600024 "arnouten@jaga: ~/dev/notion/mod_xinerama": ("xterm" "XTerm")  1486x628+1+27  +1713+27
+              1 child:
+              0x260002f (has no name): ()  1486x628+0+0  +1713+27
+           0x240008c "Command line options in Haskell - Iceweasel": ("Navigator" "Iceweasel")  1486x638+1+22  +1713+22
+              2 children:
+              0x2400158 (has no name): ()  1486x638+0+0  +1713+22
+              0x240008d (has no name): ()  1x1+-1+-1  +1712+21
+           0x1000037 "WGroup": ()  1x1+1+22  +1713+22
+        0x1000034 "Notion WFrame<3>": ()  432x690+0+362  +1280+362
+           4 children:
+           0x1000033 "WGroup": ()  1x1+-1+-1  +1279+361
+           0x1e00024 "arnouten@jaga: ~/dev/notion/notion": ("xterm" "XTerm")  430x667+1+22  +1281+384
+              1 child:
+              0x1e0002f (has no name): ()  430x667+0+0  +1281+384
+           0x1c00024 "arnouten@jaga: ~/dev/treeview/haskell": ("xterm" "XTerm")  430x667+1+22  +1281+384
+              1 child:
+              0x1c0002f (has no name): ()  430x667+0+0  +1281+384
+           0x1000066 "WGroup": ()  1x1+1+22  +1281+384
+        0x100002b "Notion WFrame": ()  432x362+0+0  +1280+0
+           4 children:
+           0x1000035 "WGroup": ()  1x1+-1+-1  +1279+-1
+           0x800024 "arnouten@jaga: ~": ("xterm" "XTerm")  430x329+1+27  +1281+27
+              1 child:
+              0x80002f (has no name): ()  430x329+0+0  +1281+27
+           0xc00024 "fg": ("xterm" "XTerm")  430x329+1+27  +1281+27
+              1 child:
+              0xc0002f (has no name): ()  430x329+0+0  +1281+27
+           0x1000032 "WGroup": ()  1x1+1+22  +1281+22
+        0x1000027 "*dock*": ()  1920x28+0+1052  +1280+1052
+           1 child:
+           0x3200003 "Bottom Expanded Edge Panel": ("gnome-panel" "Gnome-panel")  1920x26+1+1  +1281+1053
+              2 children:
+              0x3200012 (has no name): ()  1918x24+2+2  +1283+1055
+                 3 children:
+                 0x3200023 (has no name): ()  74x24+1703+0  +2986+1055
+                    1 child:
+                    0x320001f "Panel": ("gnome-panel" "Gnome-panel")  74x24+0+0  +2986+1055
+                       3 children:
+                       0x320002a (has no name): ()  24x24+0+0  +2986+1055
+                          1 child:
+                          0x1200f86 "batterytray.pl": ("batterytray.pl" "Batterytray.pl")  24x24+0+0  +2986+1055
+                             1 child:
+                             0x1200f87 (has no name): ()  1x1+-1+-1  +2985+1054
+                       0x3200028 (has no name): ()  24x24+25+0  +3011+1055
+                          1 child:
+                          0xa00115 "clipit": ("clipit" "Clipit")  24x24+0+0  +3011+1055
+                             1 child:
+                             0xa00116 (has no name): ()  1x1+-1+-1  +3010+1054
+                       0x3200026 (has no name): ()  24x24+50+0  +3036+1055
+                          1 child:
+                          0xe000f8 "gtk-redshift": ("gtk-redshift" "Gtk-redshift")  24x24+0+0  +3036+1055
+                             1 child:
+                             0xe000f9 (has no name): ()  1x1+-1+-1  +3035+1054
+                 0x3200022 (has no name): ()  141x24+1777+0  +3060+1055
+                    1 child:
+                    0x320001c "Panel": ("gnome-panel" "Gnome-panel")  141x24+0+0  +3060+1055
+                 0x320001b (has no name): ()  781x24+10+0  +1293+1055
+                    1 child:
+                    0x3200018 "Panel": ("gnome-panel" "Gnome-panel")  781x24+0+0  +1293+1055
+              0x3200004 (has no name): ()  1x1+-1+-1  +1280+1052
+        0x100002a "Notion WTiling dummy window": ()  1x1+0+0  +1280+0
+        0x1000029 "WGroup": ()  1x1+0+0  +1280+0
+     0x1000013 "notion": ()  1x1+0+0  +0+0
+     0x2438693 "Search using Google": ("Popup" "Iceweasel")  125x21+2983+90  +2983+90
+        2 children:
+        0x243869c (has no name): ()  125x21+0+0  +2983+90
+        0x2438694 (has no name): ()  1x1+-1+-1  +2982+89
+     0x3200024 "Panel": ()  10x10+-100+-100  +-100+-100
+     0x3200001 "Panel": ("gnome-panel" "Gnome-panel")  10x10+10+10  +10+10
+        1 child:
+        0x3200002 (has no name): ()  1x1+-1+-1  +9+9
+     0x4600001 "VIM": ("VIM" "Vim_xterm")  1x1+0+0  +0+0
+     0x2e00029 "#mbar#repository": ("#mbar#repository" "Menu")  218x243+541+50  +541+50
+        1 child:
+        0x2e00028 (has no name): ()  218x243+0+0  +541+50
+     0x2e0009b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0009a (has no name): ()  1x1+0+0  +0+0
+     0x2e00099 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00098 (has no name): ()  1x1+0+0  +0+0
+     0x2e00097 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00096 (has no name): ()  1x1+0+0  +0+0
+     0x2e00095 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00094 (has no name): ()  1x1+0+0  +0+0
+     0x2e00093 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00092 (has no name): ()  1x1+0+0  +0+0
+     0x2e00091 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00090 (has no name): ()  1x1+0+0  +0+0
+     0x2e0008d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0008c (has no name): ()  1x1+0+0  +0+0
+     0x2e0008b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0008a (has no name): ()  1x1+0+0  +0+0
+     0x2e00089 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00088 (has no name): ()  1x1+0+0  +0+0
+     0x2e00087 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00086 (has no name): ()  1x1+0+0  +0+0
+     0x2e00085 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00084 (has no name): ()  1x1+0+0  +0+0
+     0x2e00083 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00082 (has no name): ()  1x1+0+0  +0+0
+     0x2e00073 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00072 (has no name): ()  1x1+0+0  +0+0
+     0x2e0006c (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0006b (has no name): ()  1x1+0+0  +0+0
+     0x2e00037 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00036 (has no name): ()  1x1+0+0  +0+0
+     0x2e00035 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00034 (has no name): ()  1x1+0+0  +0+0
+     0x2e00033 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00032 (has no name): ()  1x1+0+0  +0+0
+     0x2e00031 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00030 (has no name): ()  1x1+0+0  +0+0
+     0x2e0002f (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0002e (has no name): ()  1x1+0+0  +0+0
+     0x2e0002d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0002c (has no name): ()  1x1+0+0  +0+0
+     0x2e0002b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0002a (has no name): ()  1x1+0+0  +0+0
+     0x2e00027 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00026 (has no name): ()  1x1+0+0  +0+0
+     0x2e00025 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00024 (has no name): ()  1x1+0+0  +0+0
+     0x2e00023 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00022 (has no name): ()  1x1+0+0  +0+0
+     0x2e00021 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00020 (has no name): ()  1x1+0+0  +0+0
+     0x2e0001f (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0001e (has no name): ()  1x1+0+0  +0+0
+     0x2e0001d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0001c (has no name): ()  1x1+0+0  +0+0
+     0x2e0001b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e0001a (has no name): ()  1x1+0+0  +0+0
+     0x2e00019 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00018 (has no name): ()  1x1+0+0  +0+0
+     0x2e00011 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x2e00010 (has no name): ()  1x1+0+0  +0+0
+     0x2e00001 (has no name): ()  1x1+0+0  +0+0
+     0x3800097 "rowctxmenu": ("rowctxmenu" "Menu")  211x254+1900+189  +1900+189
+        1 child:
+        0x3800096 (has no name): ()  211x254+0+0  +1900+189
+     0x3e00001 "VIM": ("VIM" "Vim_xterm")  1x1+0+0  +0+0
+     0x380009f (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x380009e (has no name): ()  1x1+0+0  +0+0
+     0x380009d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x380009c (has no name): ()  1x1+0+0  +0+0
+     0x380009b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x380009a (has no name): ()  1x1+0+0  +0+0
+     0x3800099 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800098 (has no name): ()  1x1+0+0  +0+0
+     0x3800045 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800044 (has no name): ()  1x1+0+0  +0+0
+     0x3800043 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800042 (has no name): ()  1x1+0+0  +0+0
+     0x3800041 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800040 (has no name): ()  1x1+0+0  +0+0
+     0x380003f (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x380003e (has no name): ()  1x1+0+0  +0+0
+     0x380003d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x380003c (has no name): ()  1x1+0+0  +0+0
+     0x380003b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x380003a (has no name): ()  1x1+0+0  +0+0
+     0x3800039 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800038 (has no name): ()  1x1+0+0  +0+0
+     0x3800037 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800036 (has no name): ()  1x1+0+0  +0+0
+     0x380002b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3800006 (has no name): ()  1x1+0+0  +0+0
+     0x3800001 (has no name): ()  1x1+0+0  +0+0
+     0x3600029 "#mbar#repository": ("#mbar#repository" "Menu")  218x243+1306+50  +1306+50
+        1 child:
+        0x3600028 (has no name): ()  218x243+0+0  +1306+50
+     0x360009b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360009a (has no name): ()  1x1+0+0  +0+0
+     0x3600099 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600098 (has no name): ()  1x1+0+0  +0+0
+     0x3600097 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600096 (has no name): ()  1x1+0+0  +0+0
+     0x3600095 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600094 (has no name): ()  1x1+0+0  +0+0
+     0x3600093 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600092 (has no name): ()  1x1+0+0  +0+0
+     0x3600091 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600090 (has no name): ()  1x1+0+0  +0+0
+     0x360008d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360008c (has no name): ()  1x1+0+0  +0+0
+     0x360008b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360008a (has no name): ()  1x1+0+0  +0+0
+     0x3600089 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600088 (has no name): ()  1x1+0+0  +0+0
+     0x3600087 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600086 (has no name): ()  1x1+0+0  +0+0
+     0x3600085 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600084 (has no name): ()  1x1+0+0  +0+0
+     0x3600083 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600082 (has no name): ()  1x1+0+0  +0+0
+     0x3600073 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600072 (has no name): ()  1x1+0+0  +0+0
+     0x360006c (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360006b (has no name): ()  1x1+0+0  +0+0
+     0x3600037 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600036 (has no name): ()  1x1+0+0  +0+0
+     0x3600035 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600034 (has no name): ()  1x1+0+0  +0+0
+     0x3600033 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600032 (has no name): ()  1x1+0+0  +0+0
+     0x3600031 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600030 (has no name): ()  1x1+0+0  +0+0
+     0x360002f (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360002e (has no name): ()  1x1+0+0  +0+0
+     0x360002d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360002c (has no name): ()  1x1+0+0  +0+0
+     0x360002b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360002a (has no name): ()  1x1+0+0  +0+0
+     0x3600027 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600026 (has no name): ()  1x1+0+0  +0+0
+     0x3600025 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600024 (has no name): ()  1x1+0+0  +0+0
+     0x3600023 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600022 (has no name): ()  1x1+0+0  +0+0
+     0x3600021 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600020 (has no name): ()  1x1+0+0  +0+0
+     0x360001f (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360001e (has no name): ()  1x1+0+0  +0+0
+     0x360001d (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360001c (has no name): ()  1x1+0+0  +0+0
+     0x360001b (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x360001a (has no name): ()  1x1+0+0  +0+0
+     0x3600019 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600018 (has no name): ()  1x1+0+0  +0+0
+     0x3600011 (has no name): ()  1x1+0+0  +0+0
+        1 child:
+        0x3600010 (has no name): ()  1x1+0+0  +0+0
+     0x3600001 (has no name): ()  1x1+0+0  +0+0
+     0x2422423 "Iceweasel": ("Popup" "Iceweasel")  224x143+1564+43  +1564+43
+        2 children:
+        0x242242d (has no name): ()  224x143+0+0  +1564+43
+        0x2422424 (has no name): ()  1x1+-1+-1  +1563+42
+     0x1800001 "plugin-container": ("plugin-container" "Plugin-container")  10x10+10+10  +10+10
+        1 child:
+        0x1800002 (has no name): ()  1x1+-1+-1  +9+9
+     0x240220c "Iceweasel": ("firefox-bin" "Firefox-bin")  200x200+0+0  +0+0
+        1 child:
+        0x240220d (has no name): ()  1x1+-1+-1  +-1+-1
+     0x240045f "Iceweasel": ()  10x10+-100+-100  +-100+-100
+     0x2400116 "Iceweasel": ()  1x1+0+0  +0+0
+        1 child:
+        0x2400117 (has no name): ()  1x1+-1+-1  +-1+-1
+     0x2400096 "Iceweasel": ("firefox-bin" "Firefox-bin")  200x200+0+0  +0+0
+        1 child:
+        0x2400097 (has no name): ()  1x1+-1+-1  +-1+-1
+     0x2400093 "Iceweasel": ("firefox-bin" "Firefox-bin")  200x200+0+0  +0+0
+        1 child:
+        0x2400094 (has no name): ()  1x1+-1+-1  +-1+-1
+     0x2400092 "Iceweasel": ()  10x10+-100+-100  +-100+-100
+     0x2400091 "Iceweasel": ()  10x10+-100+-100  +-100+-100
+     0x240006b (has no name): ("Toplevel" "Iceweasel")  200x200+0+0  +0+0
+        1 child:
+        0x240006c (has no name): ()  1x1+-1+-1  +-1+-1
+     0x2400001 "Iceweasel": ("firefox-bin" "Firefox-bin")  10x10+10+10  +10+10
+        1 child:
+        0x2400002 (has no name): ()  1x1+-1+-1  +9+9
+     0xa0004d "clipit": ()  10x10+-100+-100  +-100+-100
+     0xe00001 "gtk-redshift": ("gtk-redshift" "Gtk-redshift")  10x10+10+10  +10+10
+        1 child:
+        0xe00002 (has no name): ()  1x1+-1+-1  +9+9
+     0x1200001 "batterytray.pl": ("batterytray.pl" "Batterytray.pl")  10x10+10+10  +10+10
+        1 child:
+        0x1200002 (has no name): ()  1x1+-1+-1  +9+9
+     0xa00001 "clipit": ("clipit" "Clipit")  10x10+10+10  +10+10
+        1 child:
+        0xa00002 (has no name): ()  1x1+-1+-1  +9+9
+     0x400001 (has no name): ()  10x10+-20+-20  +-20+-20
+
