@@ -1,9 +1,12 @@
 module Main where
 
+import System.Environment
+import System.Console.GetOpt
 import Hierarchy
 import Graphics.UI.Gtk
 import Graphics.UI.Gtk.ModelView as ModelView
 import Data.Tree
+
 
 myTreeViewNew :: TreeStore (String) -> (Forest String) -> IO (TreeView)
 myTreeViewNew contents tree = do
@@ -49,7 +52,10 @@ scrolled windowtoscroll = do
 
 main :: IO ()
 main = do
-   let filename = "test.txt"
+   args <- getArgs
+   let ( actions, nonOpts, msgs ) = getOpt RequireOrder [ ] args
+   let filename = head nonOpts 
+
    file <- readFile filename;
    let forest = parseForest(file)
 
