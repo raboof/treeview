@@ -80,13 +80,16 @@ main = do
    boxPackStart leftbox tv1s PackGrow 0
    boxPackStart leftbox search PackNatural 0
 
+{-
    upperpaned <- hPanedNew
    panedAdd1 upperpaned leftbox 
-   panedAdd2 upperpaned text 
+   scrolledtext <- scrolled text
+   panedAdd2 upperpaned scrolledtext
    panedSetPosition upperpaned 1000
+-}
 
    outerpaned <- vPanedNew 
-   panedAdd1 outerpaned upperpaned
+   panedAdd1 outerpaned leftbox
    tv2s <- scrolled treeview2
    panedAdd2 outerpaned tv2s
    panedSetPosition outerpaned 1000
