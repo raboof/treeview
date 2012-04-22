@@ -54,6 +54,10 @@ main :: IO ()
 main = do
    args <- getArgs
    let ( actions, nonOpts, msgs ) = getOpt RequireOrder [ ] args
+   case nonOpts of 
+     [] -> error "Usage: treeview <filename>"
+     _ -> return()
+
    let filename = head nonOpts 
 
    file <- readFile filename;
