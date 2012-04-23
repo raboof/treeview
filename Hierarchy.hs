@@ -2,6 +2,7 @@ module Hierarchy where
 
 import Data.Tree
 import Data.List
+import Data.Char
 
 filterModelForest :: (Forest String) -> String -> (Forest String)
 filterModelForest [] _ = []
@@ -12,29 +13,19 @@ filterModelForest (x:xs) filter
   where 
     matchingSubtree = filterModelForest (subForest x) filter
 
-isBlankChar :: Char -> Bool
-isBlankChar '\n' = True
-isBlankChar '\r' = True
-isBlankChar ' '  = True
-isBlankChar '\t' = True
-isBlankChar _ = False
-
 isBlank :: String -> Bool
 isBlank [] = True
 isBlank (x:xs)
-    | isBlankChar x = isBlank xs
+    | isSpace x = isBlank xs
     | otherwise = False
 
 removeBlank :: [String] -> [String]
-removeBlank [] = []
-removeBlank (x:xs)
-    | isBlank x = removeBlank xs
-    | otherwise = (x : removeBlank xs)
+removeBlank = filter (not . isBlank)
 
 indentationOf :: String -> Int
 indentationOf [] = 0
 indentationOf (x:xs)
-    | isBlankChar x = 1 + indentationOf xs
+    | isSpace x = 1 + indentationOf xs
     | otherwise = 0
 
 isChildOf :: String -> String -> Bool
